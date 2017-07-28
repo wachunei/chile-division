@@ -1,0 +1,796 @@
+[
+  {
+    "name": "Arica",
+    "province": 151,
+    "communes": [
+      15101,
+      15102
+    ],
+    "apportionment": 11
+  },
+  {
+    "name": "Parinacota",
+    "province": 152,
+    "communes": [
+      15201,
+      15202
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Iquique",
+    "province": 11,
+    "communes": [
+      1101,
+      1107
+    ],
+    "apportionment": 11
+  },
+  {
+    "name": "Tamarugal",
+    "province": 14,
+    "communes": [
+      1401,
+      1402,
+      1403,
+      1404,
+      1405
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Tocopilla",
+    "province": 23,
+    "communes": [
+      2301,
+      2302
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Antofagasta",
+    "province": 21,
+    "communes": [
+      2101,
+      2102,
+      2103,
+      2104
+    ],
+    "apportionment": 8
+  },
+  {
+    "name": "El Loa",
+    "province": 22,
+    "communes": [
+      2201,
+      2202,
+      2203
+    ],
+    "apportionment": 5
+  },
+  {
+    "name": "Copiapó",
+    "province": 31,
+    "communes": [
+      3101,
+      3102,
+      3103
+    ],
+    "apportionment": 7
+  },
+  {
+    "name": "Chañaral",
+    "province": 32,
+    "communes": [
+      3201,
+      3202
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Huasco",
+    "province": 33,
+    "communes": [
+      3301,
+      3302,
+      3303,
+      3304
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Elqui",
+    "province": 41,
+    "communes": [
+      4101,
+      4102,
+      4103,
+      4104,
+      4105,
+      4106
+    ],
+    "apportionment": 7
+  },
+  {
+    "name": "Choapa",
+    "province": 42,
+    "communes": [
+      4201,
+      4202,
+      4203,
+      4204
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Limarí",
+    "province": 43,
+    "communes": [
+      4301,
+      4302,
+      4303,
+      4304,
+      4305
+    ],
+    "apportionment": 5
+  },
+  {
+    "name": "Valparaíso I",
+    "province": 51,
+    "communes": [
+      5103,
+      5105,
+      5107,
+      5109
+    ],
+    "apportionment": 5
+  },
+  {
+    "name": "Valparaíso II",
+    "province": 51,
+    "communes": [
+      5101,
+      5102,
+      5104
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Isla de Pascua",
+    "province": 52,
+    "communes": [
+      5201
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Los Andes",
+    "province": 53,
+    "communes": [
+      5301,
+      5302,
+      5303,
+      5304
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Petorca",
+    "province": 54,
+    "communes": [
+      5401,
+      5402,
+      5403,
+      5404,
+      5405
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Quillota",
+    "province": 55,
+    "communes": [
+      5501,
+      5502,
+      5503,
+      5504,
+      5506
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "San Antonio",
+    "province": 56,
+    "communes": [
+      5601,
+      5602,
+      5603,
+      5604,
+      5605,
+      5606
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "San Felipe",
+    "province": 57,
+    "communes": [
+      5701,
+      5702,
+      5703,
+      5704,
+      5705,
+      5706
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Marga Marga",
+    "province": 58,
+    "communes": [
+      5801,
+      5802,
+      5803,
+      5804
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Santiago I",
+    "province": 131,
+    "communes": [
+      13104,
+      13107,
+      13124,
+      13125,
+      13128
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Santiago II",
+    "province": 131,
+    "communes": [
+      13101,
+      13103,
+      13108,
+      13117,
+      13126,
+      13127
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Santiago III",
+    "province": 131,
+    "communes": [
+      13102,
+      13106,
+      13119
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Santiago IV",
+    "province": 131,
+    "communes": [
+      13113,
+      13114,
+      13115,
+      13120,
+      13123,
+      13132
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Santiago V",
+    "province": 131,
+    "communes": [
+      13110,
+      13111,
+      13118,
+      13122,
+      13129
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Santiago VI",
+    "province": 131,
+    "communes": [
+      13105,
+      13109,
+      13112,
+      13116,
+      13121,
+      13130,
+      13131
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Cordillera",
+    "province": 132,
+    "communes": [
+      13201,
+      13202,
+      13203
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Chacabuco",
+    "province": 133,
+    "communes": [
+      13301,
+      13302,
+      13303
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Maipo",
+    "province": 134,
+    "communes": [
+      13401,
+      13402,
+      13403,
+      13404
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Melipilla",
+    "province": 135,
+    "communes": [
+      13501,
+      13502,
+      13503,
+      13504,
+      13505
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Talagante",
+    "province": 136,
+    "communes": [
+      13601,
+      13602,
+      13603,
+      13604,
+      13605
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Cachapoal I",
+    "province": 61,
+    "communes": [
+      6101
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Cachapoal II",
+    "province": 61,
+    "communes": [
+      6102,
+      6103,
+      6104,
+      6105,
+      6106,
+      6107,
+      6108,
+      6109,
+      6110,
+      6111,
+      6112,
+      6113,
+      6114,
+      6115,
+      6116,
+      6117
+    ],
+    "apportionment": 6
+  },
+  {
+    "name": "Cardenal Caro",
+    "province": 62,
+    "communes": [
+      6201,
+      6202,
+      6203,
+      6204,
+      6205,
+      6206
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Colchagua",
+    "province": 63,
+    "communes": [
+      6301,
+      6302,
+      6303,
+      6304,
+      6305,
+      6306,
+      6307,
+      6308,
+      6309,
+      6310
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Talca",
+    "province": 71,
+    "communes": [
+      7101,
+      7102,
+      7103,
+      7104,
+      7105,
+      7106,
+      7107,
+      7108,
+      7109,
+      7110
+    ],
+    "apportionment": 7
+  },
+  {
+    "name": "Cauquenes",
+    "province": 72,
+    "communes": [
+      7201,
+      7202,
+      7203
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Curicó",
+    "province": 73,
+    "communes": [
+      7301,
+      7302,
+      7303,
+      7304,
+      7305,
+      7306,
+      7307,
+      7308,
+      7309
+    ],
+    "apportionment": 5
+  },
+  {
+    "name": "Linares",
+    "province": 74,
+    "communes": [
+      7401,
+      7402,
+      7403,
+      7404,
+      7405,
+      7406,
+      7407,
+      7408
+    ],
+    "apportionment": 6
+  },
+  {
+    "name": "Concepción I",
+    "province": 81,
+    "communes": [
+      8107,
+      8110,
+      8111,
+      8112
+    ],
+    "apportionment": 5
+  },
+  {
+    "name": "Concepción II",
+    "province": 81,
+    "communes": [
+      8101,
+      8103,
+      8104
+    ],
+    "apportionment": 5
+  },
+  {
+    "name": "Concepción III",
+    "province": 81,
+    "communes": [
+      8102,
+      8105,
+      8106,
+      8108,
+      8109
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Arauco",
+    "province": 82,
+    "communes": [
+      8201,
+      8202,
+      8203,
+      8204,
+      8205,
+      8206,
+      8207
+    ],
+    "apportionment": 3
+  },
+  {
+    "name": "Biobío",
+    "province": 83,
+    "communes": [
+      8301,
+      8302,
+      8303,
+      8304,
+      8305,
+      8306,
+      8307,
+      8308,
+      8309,
+      8310,
+      8311,
+      8312,
+      8313,
+      8314
+    ],
+    "apportionment": 5
+  },
+  {
+    "name": "Ñuble",
+    "province": 84,
+    "communes": [
+      8401,
+      8402,
+      8403,
+      8404,
+      8405,
+      8406,
+      8407,
+      8408,
+      8409,
+      8410,
+      8411,
+      8412,
+      8413,
+      8414,
+      8415,
+      8416,
+      8417,
+      8418,
+      8419,
+      8420,
+      8421
+    ],
+    "apportionment": 6
+  },
+  {
+    "name": "Cautín I",
+    "province": 91,
+    "communes": [
+      9101,
+      9112
+    ],
+    "apportionment": 7
+  },
+  {
+    "name": "Cautín II",
+    "province": 91,
+    "communes": [
+      9102,
+      9103,
+      9104,
+      9105,
+      9106,
+      9107,
+      9108,
+      9109,
+      9110,
+      9111,
+      9113,
+      9114,
+      9115,
+      9116,
+      9117,
+      9118,
+      9119,
+      9120,
+      9121
+    ],
+    "apportionment": 8
+  },
+  {
+    "name": "Malleco",
+    "province": 92,
+    "communes": [
+      9201,
+      9202,
+      9203,
+      9204,
+      9205,
+      9206,
+      9207,
+      9208,
+      9209,
+      9210,
+      9211
+    ],
+    "apportionment": 5
+  },
+  {
+    "name": "Valdivia",
+    "province": 141,
+    "communes": [
+      14101,
+      14102,
+      14103,
+      14104,
+      14105,
+      14106,
+      14107,
+      14108
+    ],
+    "apportionment": 9
+  },
+  {
+    "name": "Ranco",
+    "province": 142,
+    "communes": [
+      14202,
+      14201,
+      14203,
+      14204
+    ],
+    "apportionment": 5
+  },
+  {
+    "name": "Llanquihue",
+    "province": 101,
+    "communes": [
+      10101,
+      10102,
+      10103,
+      10104,
+      10105,
+      10106,
+      10107,
+      10108,
+      10109
+    ],
+    "apportionment": 6
+  },
+  {
+    "name": "Chiloé",
+    "province": 102,
+    "communes": [
+      10201,
+      10202,
+      10203,
+      10204,
+      10205,
+      10206,
+      10207,
+      10208,
+      10209,
+      10210
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Osorno",
+    "province": 103,
+    "communes": [
+      10301,
+      10302,
+      10303,
+      10304,
+      10305,
+      10306,
+      10307
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Palena",
+    "province": 104,
+    "communes": [
+      10401,
+      10402,
+      10403,
+      10404
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Coyhaique",
+    "province": 111,
+    "communes": [
+      11101,
+      11102
+    ],
+    "apportionment": 6
+  },
+  {
+    "name": "Aysén",
+    "province": 112,
+    "communes": [
+      11201,
+      11202,
+      11203
+    ],
+    "apportionment": 4
+  },
+  {
+    "name": "Capitán Prat",
+    "province": 113,
+    "communes": [
+      11301,
+      11302,
+      11303
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "General Carrera",
+    "province": 114,
+    "communes": [
+      11401,
+      11402
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Magallanes",
+    "province": 121,
+    "communes": [
+      12101,
+      12102,
+      12103,
+      12104
+    ],
+    "apportionment": 8
+  },
+  {
+    "name": "Antártica Chilena",
+    "province": 122,
+    "communes": [
+      12201,
+      12202
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Tierra del Fuego",
+    "province": 123,
+    "communes": [
+      12301,
+      12302,
+      12303
+    ],
+    "apportionment": 2
+  },
+  {
+    "name": "Última Esperanza",
+    "province": 124,
+    "communes": [
+      12401,
+      12402
+    ],
+    "apportionment": 2
+  }
+]

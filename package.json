@@ -1,0 +1,17 @@
+{
+  "name": "chile-division",
+  "version": "0.0.1",
+  "description": "Geographic and Administrative division of Chile, as JSON.",
+  "main": "index.js",
+  "author": "Pedro Pablo Aste Kompen <wachunei@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel-node build.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-env": "^1.6.0",
+    "fs-extra": "^4.0.0"
+  }
+}

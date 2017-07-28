@@ -1,0 +1,122 @@
+[
+  {
+    "name": {
+      "full": "De Arica y Parinacota",
+      "short": "Arica y Parinacota"
+    },
+    "code": "15",
+    "geoOrder": "1"
+  },
+  {
+    "name": {
+      "full": "De Tarapacá",
+      "short": "Tarapacá"
+    },
+    "code": "1",
+    "geoOrder": "2"
+  },
+  {
+    "name": {
+      "full": "De Antofagasta",
+      "short": "Antofagasta"
+    },
+    "code": "2",
+    "geoOrder": "3"
+  },
+  {
+    "name": {
+      "full": "De Atacama",
+      "short": "Atacama"
+    },
+    "code": "3",
+    "geoOrder": "4"
+  },
+  {
+    "name": {
+      "full": "De Coquimbo",
+      "short": "Coquimbo"
+    },
+    "code": "4",
+    "geoOrder": "5"
+  },
+  {
+    "name": {
+      "full": "De Valparaíso",
+      "short": "Valparaíso"
+    },
+    "code": "5",
+    "geoOrder": "6"
+  },
+  {
+    "name": {
+      "full": "Metropolitana de Santiago",
+      "short": "Metropolitana"
+    },
+    "code": "13",
+    "geoOrder": "7"
+  },
+  {
+    "name": {
+      "full": "Del Libertador Bernardo O'Higgins",
+      "short": "O'Higgins"
+    },
+    "code": "6",
+    "geoOrder": "8"
+  },
+  {
+    "name": {
+      "full": "Del Maule",
+      "short": "Maule"
+    },
+    "code": "7",
+    "geoOrder": "9"
+  },
+  {
+    "name": {
+      "full": "Del Biobío",
+      "short": "Biobío"
+    },
+    "code": "8",
+    "geoOrder": "10"
+  },
+  {
+    "name": {
+      "full": "De La Araucanía",
+      "short": "Araucanía"
+    },
+    "code": "9",
+    "geoOrder": "11"
+  },
+  {
+    "name": {
+      "full": "De Los Ríos",
+      "short": "Los Ríos"
+    },
+    "code": "14",
+    "geoOrder": "12"
+  },
+  {
+    "name": {
+      "full": "De Los Lagos",
+      "short": "Los Lagos"
+    },
+    "code": "10",
+    "geoOrder": "13"
+  },
+  {
+    "name": {
+      "full": "De Aysén del Gral. C. Ibáñez del Campo",
+      "short": "Aysén"
+    },
+    "code": "11",
+    "geoOrder": "14"
+  },
+  {
+    "name": {
+      "full": "De Magallanes y de La Antártica Chilena",
+      "short": "Magallanes y Antártica Chilena"
+    },
+    "code": "12",
+    "geoOrder": "15"
+  }
+]

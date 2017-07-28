@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Arica y Parinacota",
+    "code": 1,
+    "apportionment": 2,
+    "region": 15
+  },
+  {
+    "name": "Tarapacá",
+    "code": 2,
+    "apportionment": 2,
+    "region": 1
+  },
+  {
+    "name": "Antofagasta",
+    "code": 3,
+    "apportionment": 3,
+    "region": 2
+  },
+  {
+    "name": "Atacama",
+    "code": 4,
+    "apportionment": 2,
+    "region": 3
+  },
+  {
+    "name": "Coquimbo",
+    "code": 5,
+    "apportionment": 3,
+    "region": 4
+  },
+  {
+    "name": "Valparaíso",
+    "code": 6,
+    "apportionment": 5,
+    "region": 5
+  },
+  {
+    "name": "Metropolitana",
+    "code": 7,
+    "apportionment": 5,
+    "region": 13
+  },
+  {
+    "name": "O'Higgins",
+    "code": 8,
+    "apportionment": 3,
+    "region": 6
+  },
+  {
+    "name": "Maule",
+    "code": 9,
+    "apportionment": 5,
+    "region": 7
+  },
+  {
+    "name": "Biobío",
+    "code": 10,
+    "apportionment": 5,
+    "region": 8
+  },
+  {
+    "name": "Araucanía",
+    "code": 11,
+    "apportionment": 5,
+    "region": 9
+  },
+  {
+    "name": "Los Ríos",
+    "code": 12,
+    "apportionment": 3,
+    "region": 14
+  },
+  {
+    "name": "Los Lagos",
+    "code": 13,
+    "apportionment": 3,
+    "region": 10
+  },
+  {
+    "name": "Aysén",
+    "code": 14,
+    "apportionment": 2,
+    "region": 11
+  },
+  {
+    "name": "Magallanes",
+    "code": 15,
+    "apportionment": 2,
+    "region": 12
+  }
+]
