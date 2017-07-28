@@ -1,6 +1,7 @@
 import fs from 'fs-extra';
 import path from 'path';
 import transforms from './transforms';
+import source from './src';
 
 const DIST_DIR = 'dist';
 const FILENAMES = {
@@ -25,7 +26,7 @@ const writeCallback = item => err => {
 };
 
 for (const key in transforms) {
-  let result = transforms[key].transform();
+  let result = transforms[key].transform(source);
 
   fs.remove(distDirectory(key)).then(() => {
     for (const resultKey in result) {

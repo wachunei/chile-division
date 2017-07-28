@@ -1,15 +1,11 @@
-import source from '../../src';
-
-const transform = () => {
-  const {
-    communes,
-    districts,
-    provinces,
-    provincialCircumscriptions,
-    regions,
-    senatorialCircumscriptions,
-  } = source;
-
+const transform = ({
+  communes,
+  districts,
+  provinces,
+  provincialCircumscriptions,
+  regions,
+  senatorialCircumscriptions,
+}) => {
   const transformedCommunes = communes.map(commune => ({
     ...commune,
     code: Number(commune.code),

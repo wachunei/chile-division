@@ -1,6 +1,4 @@
-import source from '../../src';
-
-const transform = () => source;
+const transform = source => source;
 
 export default {
   transform,

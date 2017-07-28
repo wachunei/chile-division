@@ -93,7 +93,7 @@ All properties are strings, check [Transforms](#transforms) for versions with nu
 Transforms are JavaScript modules that manipulate original JSON files and generate a different representation of them. e.g: Merge geographic models into a single object or use numbers instead of strings as values type.
 
 ## Reading source files
-Transforms should import `src` module, which exports an object with this shape (default):
+Transforms will be given the export of `src` module as `source` (`transform(source)`), which is an object with this shape (default):
 
 ```js
 {
@@ -107,16 +107,15 @@ Transforms should import `src` module, which exports an object with this shape (
 ```
 
 ## API
-### `transform()`
-Applies transformation. Return value is an object with at least one of these keys: `communes`, `districts`, `provinces`, `provincialCircumscriptions`, `regions`, `senatorialCircumscriptions`. Values of these keys must be arrays.
+
+### `transform(source)`
+Applies transformation from `source`. Returns an object with at least one of these keys: `communes`, `districts`, `provinces`, `provincialCircumscriptions`, `regions`, `senatorialCircumscriptions`. Values of these keys must be arrays.
 
 ## Identity transform
 
 Identity transform returns the same files as source.
 ```js
-import source from '../../src';
-
-const transform = () => source;
+const transform = source => source;
 
 export default {
   transform,
