@@ -123,8 +123,8 @@ export default {
 };
 ```
 
-## Available transforms
+## Available Transforms
 | Transform | Description | Exports | Author |
-|-|-|-|
+|-|-|-|-|
 | `Identity` | Does nothing to source files | Object with default shape | |
 |`ValuesAsNumbers`| Changes all String(Number) types to Number | Object with default shape | @wachunei|
