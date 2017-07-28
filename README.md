@@ -1,6 +1,9 @@
 # Chile Division
 Geographic and Administrative division of Chile, as JSON.
 
+## Data
+All data is available in `dist` directory.
+
 ## Version
 * Current Version: valid for 2017 elections.
 
@@ -91,14 +94,15 @@ Transforms are JavaScript modules that manipulate original JSON files and genera
 
 ## Reading source files
 Transforms should import `src` module, which exports an object with this shape (default):
+
 ```js
 {
-  communes: […],
-  districts: […],
-  provinces: […],
-  provincialCircumscription: […],
-  regions: […],
-  senatorialCircumscription: […]
+  communes: [/* … */],
+  districts: [/* … */],
+  provinces: [/* … */],
+  provincialCircumscription: [/* … */],
+  regions: [/* … */],
+  senatorialCircumscription: [/* … */]
 }
 ```
 
@@ -106,8 +110,21 @@ Transforms should import `src` module, which exports an object with this shape (
 ### `transform()`
 Applies transformation. Return value is an object with at least one of these keys: `communes`, `districts`, `provinces`, `provincialCircumscriptions`, `regions`, `senatorialCircumscriptions`. Values of these keys must be arrays.
 
+## Identity transform
+
+Identity transform returns the same files as source.
+```js
+import source from '../../src';
+
+const transform = () => source;
+
+export default {
+  transform,
+};
+```
+
 ## Available transforms
-| Transform | Description | Exports |
+| Transform | Description | Exports | Author |
 |-|-|-|
-| `Identity` | Does nothing to source files | Object with default shape |
-|`ValuesAsNumbers`| Changes all String(Number) types to Number | Object with default shape |
+| `Identity` | Does nothing to source files | Object with default shape | |
+|`ValuesAsNumbers`| Changes all String(Number) types to Number | Object with default shape | @wachunei|
